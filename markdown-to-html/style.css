@@ -21,10 +21,6 @@ p {
   font-family: arial;
   font-size: 160%;
 }
-table, th, td {
-  border: 1px solid white;
-	color: white;
-}
 
 thead,
 tfoot {
