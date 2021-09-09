@@ -22,6 +22,18 @@ p {
   font-size: 160%;
 }
 
+ol {
+	color: white;
+  list-style: none; /* Remove list bullets */
+  padding: 0;
+  margin: 0;
+}
+
+li {
+	color: white;
+  padding-left: 16px;
+}
+
 thead,
 tfoot {
     background-color: #3f87a6;
