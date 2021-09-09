@@ -21,6 +21,9 @@ p {
   font-family: arial;
   font-size: 160%;
 }
+table, th, td {
+  border: 3px solid white;
+}
 		footer{
 			position: absolute;
 			margin-top: 300px;
