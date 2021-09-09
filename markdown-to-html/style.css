@@ -2,7 +2,12 @@
 			background-color: #1E0731;
 		}
 h1 {
-  color: blue;
+  color: white;
+}
+p {
+  color: white;
+  font-family: courier;
+  font-size: 160%;
 }
 		footer{
 			position: absolute;
