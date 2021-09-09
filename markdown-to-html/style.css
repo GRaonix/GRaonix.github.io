@@ -6,6 +6,16 @@ h1 {
 	 font-family: courier;
   font-size: 360%;
 }
+h2 {
+  color: white;
+	 font-family: courier;
+  font-size: 250%;
+}
+h3 {
+  color: white;
+	 font-family: courier;
+  font-size: 200%;
+}
 p {
   color: white;
   font-family: courier;
