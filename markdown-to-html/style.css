@@ -23,6 +23,7 @@ p {
 }
 table, th, td {
   border: 1px solid white;
+	color: white;
 }
 		footer{
 			position: absolute;
