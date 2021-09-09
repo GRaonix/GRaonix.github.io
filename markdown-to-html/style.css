@@ -94,12 +94,15 @@ td {
 		}
 
 		.wrapper{
-			color: #99eeff;
-	 		font-family: sherif;
-  			font-size: 360%;
-			position: absolute;
-			float: left;
-			margin: 140px 100px;
+			//color: #99eeff;
+	 		//font-family: sherif;
+  			//font-size: 360%;
+			//position: absolute;
+			//float: left;
+			//margin: 140px 100px;
+			background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 		}
 
 		.line{
