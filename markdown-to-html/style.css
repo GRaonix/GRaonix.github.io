@@ -1,12 +1,6 @@
 		body{
-			// background-color: #1b3757;
-			
-
-	background-image: // skeuomorphism anyone?
-		radial-gradient(rgba(#fff, 0.125), rgba(#fff, 0)),
-		linear-gradient(to bottom, #000, #000 2px, #111 3px);
-	background-repeat: repeat-y;
-		
+		background-color: #1b3757;
+					
 h1 {
   color: #99eeff;
 	 font-family: arial;
