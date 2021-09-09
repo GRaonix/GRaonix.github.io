@@ -1,6 +1,9 @@
 		body{
 			background-color: #1E0731;
 		}
+h1 {
+  color: blue;
+}
 		footer{
 			position: absolute;
 			margin-top: 300px;
