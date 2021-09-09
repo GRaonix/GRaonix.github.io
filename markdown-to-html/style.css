@@ -23,18 +23,18 @@ p {
 }
 
 ol {
-	color: white;
+	 color: white;
   font-family: arial;
-  font-size: 100%;
+  font-size: 160%;
 	list-style-type: circle;
    padding: 0;
   margin: 0;
 }
 
 li {
-	color: white;
+	 color: white;
   font-family: arial;
-  font-size: 80%;
+  font-size: 160%;
   padding-left: 16px;
 }
 
