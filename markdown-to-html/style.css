@@ -1,8 +1,8 @@
 body{
-	// vbackground-color: #1b3757;
+	// background-color: #1b3757;
 	
 	background: linear-gradient(132deg, #1b3757, #096a79, #00d4ff);
-  background-size: 400% 400%;
+  
   animation: Gradient 3s ease infinite;
 	
 }
