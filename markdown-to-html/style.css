@@ -8,15 +8,7 @@
 	background-repeat: repeat-y;
 	background-position: center center;
 	background-size: cover, 100% 3px;
-	font-size: calc(10px + 2vw);
-	font-family: 'VT323', monospace, sans-serif;
-	color: #3f3; // hacker green
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-
-
-
-
+	
 h1 {
   color: #99eeff;
 	 font-family: arial;
