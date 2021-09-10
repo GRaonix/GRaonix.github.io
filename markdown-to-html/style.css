@@ -9,7 +9,7 @@ body{
   background-size: 400% 400%;
   animation: Gradient 6s ease infinite;
   position: relative;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   
   padding:0;
