@@ -1,21 +1,10 @@
 body{
 	// background-color: #1b3757;
 	
-	//background: linear-gradient(132deg, #1b3757, #096a79, #00d4ff);
+	background: linear-gradient(132deg, #1b3757, #096a79, #00d4ff);
     	
 }
-.background {
-  background: linear-gradient(132deg, #FC415A, #591BC5, green);
-  background-size: 400% 400%;
-  animation: Gradient 6s ease infinite;
-  position: relative;
-  height: 100%;
-  width: 100%;
-  
-  padding:0;
-  margin:0px;
-}
-					
+			
 h1 {
   color: #99eeff;
 	 font-family: arial;
