@@ -20,7 +20,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: red;
 }
 
 /* mouse over link */
