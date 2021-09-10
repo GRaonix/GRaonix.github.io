@@ -14,6 +14,25 @@ background-color: black;
   margin:0px;
 }
 
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
 @keyframes Gradient {
   0% {
     background-position: 0% 50%;
