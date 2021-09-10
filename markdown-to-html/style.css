@@ -15,12 +15,12 @@ background-color: black;
 }
 
 a:link {
-  color: red;
+  color: blue;
 }
 
 /* visited link */
 a:visited {
-  color: red;
+  color: blue;
 }
 
 /* mouse over link */
