@@ -31,7 +31,7 @@ p {
 ol {
 	 color: white;
   font-family: arial;
-  font-size: 100%;
+  font-size: 120%;
 	list-style-type: circle;
    padding: 0;
   margin: 0;
@@ -40,7 +40,7 @@ ol {
 li {
 	 color: white;
   font-family: arial;
-  font-size: 100%;
+  font-size: 120%;
   padding-left: 16px;
 }
 
