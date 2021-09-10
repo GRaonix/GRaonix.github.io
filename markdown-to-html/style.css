@@ -2,7 +2,7 @@ body{
 	// background-color: #1b3757;
 	
 	//background: linear-gradient(132deg, #1b3757, #096a79, #00d4ff);
-    	background: linear-gradient(132deg, #FC415A, #591BC5, #212335);
+    	background: linear-gradient(132deg, #FC415A, #591BC5, green);
   background-size: 400% 400%;
   animation: Gradient 6s ease infinite;
   position: relative;
