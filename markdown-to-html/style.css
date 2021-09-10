@@ -4,6 +4,7 @@ background-color: black;
 
 .background {
   background: linear-gradient(132deg, #1b3757, #009345);
+  
   background-size: 400% 400%;
   animation: Gradient 15s ease infinite;
   position: relative;
@@ -15,12 +16,12 @@ background-color: black;
 }
 
 a:link {
-  color: blue;
+  color: red;
 }
 
 /* visited link */
 a:visited {
-  color: blue;
+  color: red;
 }
 
 /* mouse over link */
@@ -56,11 +57,18 @@ h2 {
   color: white;
 	 font-family: arial;
   font-size: 250%;
+ 
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 h3 {
   color: white;
 	 font-family: arial;
   font-size: 200%;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 p {
   color: white;
@@ -140,6 +148,7 @@ td {
 			position: absolute;
 			float: left;
 			margin: 140px 100px;
+      
 			
 		}
 
