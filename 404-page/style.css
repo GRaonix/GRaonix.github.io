@@ -5,6 +5,9 @@ html {
 }
 
 body {
+display: flex;
+  justify-content: center;    
+    
   box-sizing: border-box;
   height: 100%;
   background-color: #000000;
@@ -73,7 +76,7 @@ body {
   35%, 100% { background-position: 0 100vh; }
 }
 
-.terminal {
+.terminal {      
   box-sizing: inherit;
   position: absolute;
   height: 100%;
@@ -83,29 +86,34 @@ body {
   text-transform: uppercase;
 }
 
-.output {
+.output {  
   color: rgba(128, 255, 128, 0.8);
   text-shadow:
       0 0 1px rgba(51, 255, 51, 0.4),
       0 0 2px rgba(255, 255, 255, 0.8);
 }
 
+h1 {
+ // color: green;
+ // font-size: 50px;
+  font-weight: bold;
+ // font-family: monospace;
+  letter-spacing: 7px;
+  cursor: pointer;
+}
+h1 span {
+  transition: 0.5s linear;
+}
+
+h1:hover span {
+  color: #fff;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+}
+
 .output::before {
-  content: "> ";
+  content: ">  ";
 }
 
-/*
-.input {
-  color: rgba(192, 255, 192, 0.8);
-  text-shadow:
-      0 0 1px rgba(51, 255, 51, 0.4),
-      0 0 2px rgba(255, 255, 255, 0.8);
-}
-
-.input::before {
-  content: "$ ";
-}
-*/
 
 a {
   color: #fff;
